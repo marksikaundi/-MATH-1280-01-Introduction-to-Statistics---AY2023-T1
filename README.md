@@ -1,1 +1,1 @@
-# Ubiversity of the people -Introduction to statistics
+# University of the people -Introduction to statistics
